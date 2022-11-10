@@ -1,12 +1,12 @@
-- title: About
+- title: Acerca
   url: /about/
-- title: Years
+- title: Edad
   url: /years/
-- title: Categories
+- title: Hoja de vida
   url: /categories/
-- title: Tags
+- title: Fotos
   url: /tags/
-- title: More
+- title: Más
   sublinks:
     - title: FAQ
       url: /faq/
