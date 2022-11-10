@@ -1,5 +1,5 @@
 title: Erik Sebastian Peñafiel
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
+description: Este pequeño espacio sirve como una ventana a mi información de interes.
 author: Erik Peñafiel
 avatar: /mifoto.JPG
 email: esph1998@gmail.com
@@ -36,8 +36,8 @@ logo: mifoto.JPG
 social:
   name: Erik Peñafiel
   links:
-    - https://twitter.com/ngzhio
     - https://www.facebook.com/erick.penafiel.16
-    - https://github.com/ngzhio
+    - https://www.facebook.com/erick.penafiel.16
+    - https://github.com/Eriksph
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
