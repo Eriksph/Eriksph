@@ -1,23 +1,17 @@
 ---
 layout: post
-title: Task Item List
+title: Lista de Idiomas
 tags: [to-do list]
 ---
 
-This post tests the style of a task item list.
 
-Source:
 
 ```markdown
-- [x] Eating
-- [ ] Walking
-  - [ ] Running
-- [ ] Sleeping
+- [x] Epañol
+- [x] Ingles
 ```
 
 Rendered:
 
 - [x] Eating
-- [ ] Walking
-  - [ ] Running
-- [ ] Sleeping
+- [x] Ingles
